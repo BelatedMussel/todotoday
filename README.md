@@ -1,4 +1,4 @@
-#To-do To-day
+# To-do To-day
 To-do To-day is a simple todo list made with Python.
 
 ![To-do To-day in a terminal.](images/todotoday1.png)
@@ -8,14 +8,14 @@ Format: ![Alt Text](url)
 Format: ![Alt Text](url)
 
 
-##Install Instructions:
+## Install Instructions:
 Use `pip` to install.
 
 From the commandline type:
 `$pip install todotoday`
 
 
-##Commands:
+## Commands:
 To-do To-day works with a syntax of `command` `task`.
 
 `add` followed by a task adds a task to the to-do list.
@@ -28,5 +28,5 @@ To-do To-day works with a syntax of `command` `task`.
 `quit` saves the list and exits the program.
 
 
-##Liscence:
+## Liscence:
 GNU GPLv3
